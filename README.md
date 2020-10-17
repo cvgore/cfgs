@@ -1,1 +1,3 @@
 # Config files
+
+License: WTFPL
