@@ -1,0 +1,10 @@
+[wezterm]
+Description=wezterm
+noborder=true
+noborderrule=2
+skipswitcher=true
+skipswitcherrule=2
+skiptaskbar=true
+skiptaskbarrule=2
+wmclass=org.wezfurlong.wezterm
+wmclassmatch=1
